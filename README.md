@@ -1,4 +1,4 @@
-# unity-tts
+# unity-sentis-jets-text-to-speech
 
 [unity/sentis-jets-text-to-speech](https://huggingface.co/unity/sentis-jets-text-to-speech)を動かすテスト
 
